@@ -1,0 +1,10 @@
+C:\Users\Ulvi\source\repos\Garanuy Motors\Garanuy Motors\bin\Debug\Garanuy Motors.exe.config
+C:\Users\Ulvi\source\repos\Garanuy Motors\Garanuy Motors\bin\Debug\Garanuy Motors.exe
+C:\Users\Ulvi\source\repos\Garanuy Motors\Garanuy Motors\bin\Debug\Garanuy Motors.pdb
+C:\Users\Ulvi\source\repos\Garanuy Motors\Garanuy Motors\obj\Debug\Garanuy Motors.csprojAssemblyReference.cache
+C:\Users\Ulvi\source\repos\Garanuy Motors\Garanuy Motors\obj\Debug\Garanuy_Motors.Properties.Resources.resources
+C:\Users\Ulvi\source\repos\Garanuy Motors\Garanuy Motors\obj\Debug\Garanuy Motors.csproj.GenerateResource.cache
+C:\Users\Ulvi\source\repos\Garanuy Motors\Garanuy Motors\obj\Debug\Garanuy Motors.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi\source\repos\Garanuy Motors\Garanuy Motors\obj\Debug\Garanuy Motors.exe
+C:\Users\Ulvi\source\repos\Garanuy Motors\Garanuy Motors\obj\Debug\Garanuy Motors.pdb
+C:\Users\Ulvi\source\repos\Garanuy Motors\Garanuy Motors\obj\Debug\Garanuy_Motors.GaranuyMotors.resources
